@@ -5,18 +5,17 @@
 
 ###
 
-<div align="center">
-<!---  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /> --->
-  <a href="https://twitter.com/SebasCoding"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a>
-</div>
-
-###
-
 <h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
-<p align="left">I'm Sebas from Argentina<br><br>- 🏛 I’m studying the Programing Associate Degree on UTN FRBB (since 2023)<br>- 📚 I've been studying coding on my own since 2021<br>- 👨‍🏫 Currently working as a university teacher (since 2012)<br>- ♟ Before coding I've been a professional chess player, earning the FIDE Master and FIDE Trainer international titles</p>
+<p align="left">I'm Sebas from Argentina</p>
+<div align="left">
+<!---  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /> --->
+  <a href="https://twitter.com/SebasCoding"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a>
+</div>
+<br>
+<p align="left">- 🏛 I’m studying the Programing Associate Degree on UTN FRBB (since 2023)<br>- 📚 I've been studying coding on my own since 2021<br>- 👨‍🏫 Currently working as a university teacher (since 2012)<br>- ♟ Before coding I've been a professional chess player, earning the FIDE Master and FIDE Trainer international titles</p>
 
 ###
 
