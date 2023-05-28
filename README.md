@@ -1,7 +1,6 @@
 <div align="center">
-  
+
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1000&center=true&width=435&separator=%3C&lines=console.log(%22Hello+World%22);%3Cprintln!(%22Hello+World%22);)](https://git.io/typing-svg)
-  
 </div>
 
 ###
@@ -9,12 +8,6 @@
 <div align="center">
 <!---  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /> --->
   <a href="https://twitter.com/SebasCoding"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SebasF1349.SebasF1349&"  />
 </div>
 
 ###
