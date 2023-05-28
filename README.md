@@ -1,4 +1,5 @@
 <h1 align="center">println!("Hello World");</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1000&center=true&width=435&separator=%3C&lines=console.log(%22Hello+World%22);%3Cprintln!(%22Hello+World%22);)](https://git.io/typing-svg)
 
 ###
 
